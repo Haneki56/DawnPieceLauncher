@@ -1,0 +1,24 @@
+[
+  {
+    "id": "main",
+    "name": "Main Server",
+    "channel": "main",
+    "manifestUrl": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/main-manifest.json",
+    "gameDir": "./instances/main",
+    "javaPath": "java",
+    "jvmArgs": ["-Xmx4G"],
+    "launchCommand": ["-version"],
+    "gameArgs": []
+  },
+  {
+    "id": "test",
+    "name": "Test Server",
+    "channel": "test",
+    "manifestUrl": "https://example.com/dawnpiece/test/manifest.json",
+    "gameDir": "./instances/test",
+    "javaPath": "java",
+    "jvmArgs": ["-Xmx2G"],
+    "launchCommand": ["-version"],
+    "gameArgs": []
+  }
+]

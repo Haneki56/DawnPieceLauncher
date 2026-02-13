@@ -1,0 +1,100 @@
+{
+  "version": "DawnPiece",
+  "files": [
+    {
+      "path": "mods/AI-Improvements-1.16.5-0.5.0.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/AI-Improvements-1.16.5-0.5.0.jar",
+      "size": 28376
+    },
+    {
+      "path": "mods/AttributeFix-1.16.5-10.1.4.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/AttributeFix-1.16.5-10.1.4.jar",
+      "size": 9569
+    },
+    {
+      "path": "mods/BHStats_Forge_1.16+.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/BHStats_Forge_1.16%2B.jar",
+      "size": 8306
+    },
+    {
+      "path": "mods/cartaddon-0.7.31.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/cartaddon-0.7.31.jar",
+      "size": 15328675
+    },
+    {
+      "path": "mods/collective-1.16.5-5.49.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/collective-1.16.5-5.49.jar",
+      "size": 189273
+    },
+    {
+      "path": "mods/curios-forge-1.16.5-4.1.0.0.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/curios-forge-1.16.5-4.1.0.0.jar",
+      "size": 291897
+    },
+    {
+      "path": "mods/CustomNPCs-1.16.5.20220728snapshot.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/CustomNPCs-1.16.5.20220728snapshot.jar",
+      "size": 12485586
+    },
+    {
+      "path": "mods/dawnpiece-1.16.5-1.0.63.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/dawnpiece-1.16.5-1.0.63.jar",
+      "size": 77818578
+    },
+    {
+      "path": "mods/FastProjectileFix-forge-1.16.5-1.0.1.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/FastProjectileFix-forge-1.16.5-1.0.1.jar",
+      "size": 6607
+    },
+    {
+      "path": "mods/geckolib-forge-1.16.5-3.0.106.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/geckolib-forge-1.16.5-3.0.106.jar",
+      "size": 3559283
+    },
+    {
+      "path": "mods/mail2003piece-1.16.5-0.3.0-6.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/mail2003piece-1.16.5-0.3.0-6.jar",
+      "size": 2811615
+    },
+    {
+      "path": "mods/mine-mine-no-mi-1.16.5-0.10.10.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/mine-mine-no-mi-1.16.5-0.10.10.jar",
+      "size": 22468161
+    },
+    {
+      "path": "mods/packetfixer-forge-2.0.1-1.16.5.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/packetfixer-forge-2.0.1-1.16.5.jar",
+      "size": 23251
+    },
+    {
+      "path": "mods/serializationisbad-1.3.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/serializationisbad-1.3.jar",
+      "size": 26738
+    },
+    {
+      "path": "mods/smoovpiecereloaded-1.0-SNAPSHOT-2.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/smoovpiecereloaded-1.0-SNAPSHOT-2.jar",
+      "size": 3371982
+    },
+    {
+      "path": "mods/spark-1.9.1-forge.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/spark-1.9.1-forge.jar",
+      "size": 3157081
+    },
+    {
+      "path": "mods/VariedCommodities-1.16.5.20220618snapshot.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/VariedCommodities-1.16.5.20220618snapshot.jar",
+      "size": 1907167
+    },
+    {
+      "path": "mods/worldborder_1.16.5-2.4.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/worldborder_1.16.5-2.4.jar",
+      "size": 11367
+    },
+    {
+      "path": "mods/yokai-0.0.3.copy.jar",
+      "url": "https://github.com/Haneki56/DawnPiece/releases/download/DawnPiece/yokai-0.0.3.copy.jar",
+      "size": 2030096
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "appId": "com.dawnpiece.launcher",
+  "productName": "DawnPieceLauncher",
+  "files": [
+    "dist/**/*",
+    "src/renderer/**/*",
+    "resources/**/*",
+    "assets/**/*",
+    "package.json"
+  ],
+  "directories": {
+    "buildResources": "assets"
+  },
+  "mac": {
+    "target": ["dmg"],
+    "icon": "assets/icon.png"
+  },
+  "win": {
+    "target": ["nsis"],
+    "icon": "assets/icon.png"
+  },
+  "linux": {
+    "target": ["AppImage"],
+    "icon": "assets/icon.png"
+  },
+  "publish": [
+    {
+      "provider": "generic",
+      "url": "https://example.com/dawnpiece-launcher/releases"
+    }
+  ]
+}

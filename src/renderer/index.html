@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DawnPiece Launcher</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header>
+        <h1>DawnPiece Launcher</h1>
+        <p class="subtitle">Main/Test profiles with manifest-based updates</p>
+        <div class="auth-controls">
+          <span id="authStatus">Not signed in</span>
+          <button id="loginBtn">Sign in with Microsoft</button>
+          <button id="logoutBtn" style="display:none">Logout</button>
+        </div>
+        <div class="app-update-controls">
+          <button id="checkAppUpdate">Check App Update</button>
+          <button id="downloadAppUpdate">Download Update</button>
+          <button id="installAppUpdate">Install Update</button>
+        </div>
+      </header>
+
+      <section id="profiles" class="profiles"></section>
+
+      <section class="status-panel">
+        <h2>Update Status</h2>
+        <p id="status">Ready.</p>
+      </section>
+    </main>
+
+    <script src="../../dist/renderer/app.js"></script>
+  </body>
+</html>
