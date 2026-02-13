@@ -25,8 +25,9 @@
   },
   "publish": [
     {
-      "provider": "generic",
-      "url": "https://example.com/dawnpiece-launcher/releases"
+      "provider": "github",
+      "owner": "Haneki56",
+      "repo": "DawnPieceLauncher"
     }
   ]
 }
